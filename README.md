@@ -34,4 +34,5 @@ An interactive Drum Kit web application that allows users to play different drum
     https://github.com/Harshini4080/Drum-Kit.git
   
 2. Go to Directory
-3. Run index.html 
+3. Run index.html
+4. Start using the drum
