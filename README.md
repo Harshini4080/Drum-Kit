@@ -13,7 +13,8 @@ An interactive Drum Kit web application that allows users to play different drum
 
 ##  Preview
 
-(![Screenshot 2025-06-23 113458](https://github.com/user-attachments/assets/95894ba2-0898-46fd-ac73-2b2261930cf8)
+![Screenshot 2025-06-23 130221](https://github.com/user-attachments/assets/94711b34-cc49-4bef-802e-ed21a11add77)
+
 )
 
 ---
