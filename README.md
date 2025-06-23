@@ -15,7 +15,7 @@ An interactive Drum Kit web application that allows users to play different drum
 
 ![Screenshot 2025-06-23 130221](https://github.com/user-attachments/assets/94711b34-cc49-4bef-802e-ed21a11add77)
 
-)
+
 
 ---
 
@@ -28,9 +28,10 @@ An interactive Drum Kit web application that allows users to play different drum
 
 ## How to Run
 
-1. Clone the repository:
 
+1. **Clone this repository**:
    ```bash
-  https://github.com/Harshini4080/Drum-Kit.git
+    https://github.com/Harshini4080/Drum-Kit.git
+  
 2. Go to Directory
 3. Run index.html 
